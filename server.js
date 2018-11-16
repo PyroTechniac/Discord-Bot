@@ -2,7 +2,7 @@
 // where your node app starts
 
 // init project
-const http = require('http');
+/*const http = require('http');
 const express = require('express');
 const app = express();
 const {CommandoClient} = require('discord.js-commando');
@@ -50,3 +50,4 @@ app.use(express.static('public'));
 // http://expressjs.com/en/starter/basic-routing.html
 
 // listen for requests :)
+*/
